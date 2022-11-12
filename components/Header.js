@@ -4,6 +4,7 @@ import HeaderItem from './HeaderItem'
 import {BadgeCheckIcon, CollectionIcon, HomeIcon, LightningBoltIcon, SearchIcon, UserIcon} from "@heroicons/react/outline"
 
 function Header() {
+  
   return (
     <header className='flex flex-col items-center m-5 sm:flex-row justify-between h-auto'>
 
